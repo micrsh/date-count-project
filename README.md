@@ -1,8 +1,8 @@
+# Date Counter Project
+
+This is a mini project to challenge skill basic react which can count date in the future or in the past.
+
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
